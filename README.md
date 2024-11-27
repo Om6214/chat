@@ -103,6 +103,3 @@ Once both the backend and frontend servers are running, you can access the appli
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
